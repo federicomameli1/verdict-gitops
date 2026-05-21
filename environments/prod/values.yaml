@@ -1,0 +1,4 @@
+image:
+  repository: ghcr.io/federicomameli1/verdict
+  tag: f5e9c8255688a818621c8c9d32754e0ed4a5062a
+  pullPolicy: IfNotPresent
