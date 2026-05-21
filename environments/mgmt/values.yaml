@@ -1,0 +1,9 @@
+image:
+  repository: ghcr.io/federicomameli1/challenge-app
+  tag: ff3d29b1fc601402c1979f7f4525963251ad7676
+  pullPolicy: IfNotPresent
+
+env:
+  openrouter_model: "z-ai/glm-4.5-air:free"
+  openrouter_app_title: "Verdict"
+  ci_bridge_repo: "federicomameli1/challenge-app"
