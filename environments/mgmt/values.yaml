@@ -1,5 +1,5 @@
 image:
-  repository: ghcr.io/federicomameli1/challenge-app
+  repository: ghcr.io/federicomameli1/verdict
   tag: ff3d29b1fc601402c1979f7f4525963251ad7676
   pullPolicy: IfNotPresent
 
