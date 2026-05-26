@@ -1,7 +1,0 @@
-namespace: pr-41
-deploymentName: verdict-pr-41
-serviceName: verdict-pr-41
-image:
-  repository: ghcr.io/federicomameli1/verdict
-  tag: 58a14dee0503a56437dfb4c284f4648c4cf9324d
-  pullPolicy: IfNotPresent
