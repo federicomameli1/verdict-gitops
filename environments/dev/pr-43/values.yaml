@@ -1,0 +1,7 @@
+namespace: pr-43
+deploymentName: verdict-pr-43
+serviceName: verdict-pr-43
+image:
+  repository: ghcr.io/federicomameli1/verdict
+  tag: a5c80cad7c581c00073447b25a7fb1c86b7f49c2
+  pullPolicy: IfNotPresent
