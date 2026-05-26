@@ -1,0 +1,7 @@
+namespace: pr-40
+deploymentName: verdict-pr-40
+serviceName: verdict-pr-40
+image:
+  repository: ghcr.io/federicomameli1/verdict
+  tag: c28724b8d08f67513ef4eef60f9eda686229b05d
+  pullPolicy: IfNotPresent
