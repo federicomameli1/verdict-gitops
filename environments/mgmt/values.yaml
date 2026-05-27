@@ -12,6 +12,6 @@ service:
   nodePort: 30080
 
 env:
-  openrouter_model: "z-ai/glm-4.5-air:free"
+  openrouter_model: "meta-llama/llama-3.3-70b-instruct:free"
   openrouter_app_title: "Verdict"
   ci_bridge_repo: "federicomameli1/challenge-app"
