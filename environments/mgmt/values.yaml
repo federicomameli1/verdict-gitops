@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: ghcr.io/federicomameli1/verdict
-  tag: 6a650b0b261a7e87a81b6598d1ea843c2a8da66f
+  tag: 897fabc4c73224586383e5eaf3e4317e61df5630
   pullPolicy: IfNotPresent
 
 service:
