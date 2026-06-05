@@ -1,7 +1,0 @@
-namespace: pr-46
-deploymentName: verdict-pr-46
-serviceName: verdict-pr-46
-image:
-  repository: ghcr.io/federicomameli1/verdict
-  tag: ec2c8527535ad0a8160aae148c86f54077ce8cc0
-  pullPolicy: IfNotPresent
